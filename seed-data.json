@@ -1,0 +1,557 @@
+{
+ "shop": {
+  "tagline": "Shoes and beauty, chosen with care.",
+  "intro": "Ladies' footwear and cosmetics. See what's in stock, then order in a message. Deliveries available",
+  "whatsapp": "254721623160",
+  "currency": "KES",
+  "address": "Kitengela at Articare Homes along AIC road",
+  "hours": "8 am- 5 pm ,Monday - Saturday.",
+  "sizeLabel": "Sizes"
+ },
+ "sections": {
+  "shoes": [
+   {
+    "id": "izwyt9hd",
+    "name": "Sandals",
+    "desc": "Comfortable flat sandals",
+    "price": 300,
+    "stock": 6,
+    "image": "images/izwyt9hd.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "i84gmx8r",
+    "name": "Zara sandals",
+    "desc": "Flat eveyday sandaks",
+    "price": 300,
+    "stock": 6,
+    "image": "images/i84gmx8r.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "iwmxypzz",
+    "name": "Dior sandals",
+    "desc": "Flat sandals for everyday life",
+    "price": 1400,
+    "stock": 1,
+    "image": "images/iwmxypzz.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "40",
+     "41"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "imcryiyh",
+    "name": "Zara sandals",
+    "desc": "Elegant sandals for any occasion",
+    "price": 1400,
+    "stock": 6,
+    "image": "images/imcryiyh.jpg",
+    "sizes": [
+     "38",
+     "39",
+     "41"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "igbu1z35",
+    "name": "Flat shoes",
+    "desc": "Comfortable flat everyday shoes",
+    "price": 500,
+    "stock": 15,
+    "image": "images/igbu1z35.jpg",
+    "sizes": [
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [
+     "Black",
+     "Brown",
+     "Beige",
+     "Tan",
+     "White"
+    ],
+    "colourImages": {}
+   },
+   {
+    "id": "irvlk9jr",
+    "name": "Buckled sandals",
+    "desc": "Elegant buckled sandals for any occasion",
+    "price": 900,
+    "stock": 10,
+    "image": "images/irvlk9jr.jpg",
+    "sizes": [
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "i2cy6i10",
+    "name": "Flat shoes",
+    "desc": "Open flat shoes for everyday life",
+    "price": 500,
+    "stock": 12,
+    "image": "images/i2cy6i10.jpg",
+    "sizes": [
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [
+     "White"
+    ],
+    "colourImages": {
+     "White": "images/i2cy6i10-white.jpg"
+    }
+   },
+   {
+    "id": "iah7y3r7",
+    "name": "Mossimo flats",
+    "desc": "Buckled maroon flats",
+    "price": 1500,
+    "stock": 6,
+    "image": "images/iah7y3r7.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "39",
+     "41"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "idygxpkg",
+    "name": "Mossimo flats",
+    "desc": "Stylish open back flats",
+    "price": 1500,
+    "stock": 6,
+    "image": "images/idygxpkg.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "ihxznbvl",
+    "name": "Mossimo flats",
+    "desc": "Buckled flats",
+    "price": 1500,
+    "stock": 7,
+    "image": "images/ihxznbvl.jpg",
+    "sizes": [
+     "36",
+     "38",
+     "39",
+     "40",
+     "42"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "i7xkd749",
+    "name": "Mossimo flats",
+    "desc": "Buckled flats that go withevery outfit",
+    "price": 1500,
+    "stock": 7,
+    "image": "images/i7xkd749.jpg",
+    "sizes": [
+     "37",
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "ifpfw27h",
+    "name": "Ballerina flats",
+    "desc": "Comfortable stylish ballerina flats",
+    "price": 1300,
+    "stock": 5,
+    "image": "images/ifpfw27h.jpg",
+    "sizes": [
+     "38",
+     "39",
+     "40"
+    ],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "isw2emrl",
+    "name": "Zara flats",
+    "desc": "Beaded Zara flats  for every occasion",
+    "price": 600,
+    "stock": 5,
+    "image": "images/isw2emrl.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "idauaef4",
+    "name": "Fendi sandals",
+    "desc": "Flat shoes for everyday life",
+    "price": 900,
+    "stock": 4,
+    "image": "images/idauaef4.jpg",
+    "sizes": [],
+    "colours": [
+     "Brown"
+    ],
+    "colourImages": {
+     "Brown": "images/idauaef4-brown.jpg"
+    }
+   },
+   {
+    "id": "iimycxne",
+    "name": "Flat leather shoes",
+    "desc": "Flat shoes for everyday activities",
+    "price": 700,
+    "stock": 4,
+    "image": "images/iimycxne.jpg",
+    "sizes": [],
+    "colours": [
+     "White"
+    ],
+    "colourImages": {
+     "White": "images/iimycxne-white.jpg"
+    }
+   },
+   {
+    "id": "i8jaju8c",
+    "name": "Zara flat floral sandals",
+    "desc": "Elegant Zara sandals that go with any outfit",
+    "price": 600,
+    "stock": 6,
+    "image": "images/i8jaju8c.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "s1",
+    "name": "Block Heel Sandal",
+    "desc": "red heeled shoes cushioned sole",
+    "price": 1400,
+    "stock": 5,
+    "image": "images/s1.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "s2",
+    "name": "Dior sandals",
+    "desc": "Comfortable flat sandals for everyday",
+    "price": 1200,
+    "stock": 6,
+    "image": "images/s2.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "s3",
+    "name": "Block heel sandals",
+    "desc": "Black heeled shoes, cushioned sole",
+    "price": 1400,
+    "stock": 5,
+    "image": "images/s3.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   },
+   {
+    "id": "s4",
+    "name": "Sports shoes",
+    "desc": "Comfortable sports shoes",
+    "price": 1800,
+    "stock": 4,
+    "image": "images/s4.jpg",
+    "sizes": [],
+    "colours": [],
+    "colourImages": {}
+   }
+  ],
+  "cosmetics": [
+   {
+    "id": "i4ssixdt",
+    "name": "Bamsi olive hair food",
+    "desc": "Bamsi hair food. Prices from 70, 120,170,300 and 450 depending on size",
+    "price": 70,
+    "stock": 12,
+    "image": "images/i4ssixdt.jpg"
+   },
+   {
+    "id": "im3kxzss",
+    "name": "Rexona cotton dry deodorant",
+    "desc": "72hr deodorant and antiperspirant",
+    "price": 180,
+    "stock": 12,
+    "image": "images/im3kxzss.jpg"
+   },
+   {
+    "id": "i1qqjn9m",
+    "name": "Rexona powder dry deodorant",
+    "desc": "72hr deodorant and antiperspirant",
+    "price": 180,
+    "stock": 11,
+    "image": "images/i1qqjn9m.jpg"
+   },
+   {
+    "id": "i8vjx291",
+    "name": "Rexona men's deodorant",
+    "desc": "72hr deodorant and antiperspirant",
+    "price": 180,
+    "stock": 11,
+    "image": "images/i8vjx291.jpg"
+   },
+   {
+    "id": "i0rcl7qn",
+    "name": "Bamsi styling gel",
+    "desc": "Styling gel",
+    "price": 100,
+    "stock": 10,
+    "image": "images/i0rcl7qn.jpg"
+   },
+   {
+    "id": "iy76tmhm",
+    "name": "Nivea pearl and beauty deodorant",
+    "desc": "72hr deodorant and antiperspirant",
+    "price": 380,
+    "stock": 10,
+    "image": "images/iy76tmhm.jpg"
+   },
+   {
+    "id": "inaa5f6x",
+    "name": "Nivea men deodorant",
+    "desc": "72hr deodorant and antiperspirant",
+    "price": 380,
+    "stock": 11,
+    "image": "images/inaa5f6x.jpg"
+   },
+   {
+    "id": "iehjpm43",
+    "name": "Bamsi locs and dreads spray",
+    "desc": "Hydrating locs and dreads spray",
+    "price": 150,
+    "stock": 14,
+    "image": "images/iehjpm43.jpg"
+   },
+   {
+    "id": "iw6lulfy",
+    "name": "Wide tooth wooden combs",
+    "desc": "Combs for styling hari",
+    "price": 70,
+    "stock": 15,
+    "image": "images/iw6lulfy.jpg"
+   },
+   {
+    "id": "ii4gscrn",
+    "name": "Necklaces",
+    "desc": "Simple elegant necklaces to go with any outfit",
+    "price": 150,
+    "stock": 13,
+    "image": "images/ii4gscrn.jpg"
+   },
+   {
+    "id": "i455rhp7",
+    "name": "Feather braids",
+    "desc": "Braids for any hairstyle",
+    "price": 60,
+    "stock": 21,
+    "image": "images/i455rhp7.jpg"
+   },
+   {
+    "id": "inqtnilm",
+    "name": "Skala body cream",
+    "desc": "Hydrating body cream",
+    "price": 100,
+    "stock": 12,
+    "image": "images/inqtnilm.jpg"
+   },
+   {
+    "id": "i04ngo9w",
+    "name": "Rubber bands",
+    "desc": "Tiny hair bands for hair styling",
+    "price": 40,
+    "stock": 14,
+    "image": "images/i04ngo9w.jpg"
+   },
+   {
+    "id": "iwvo8jc4",
+    "name": "Asante soap",
+    "desc": "Goat and tumeric soap ffor skin brightening",
+    "price": 250,
+    "stock": 13,
+    "image": "images/iwvo8jc4.jpg"
+   },
+   {
+    "id": "iocr8rbq",
+    "name": "Lip and eye liners",
+    "desc": "LIp liners and eye liners",
+    "price": 30,
+    "stock": 13,
+    "image": "images/iocr8rbq.jpg"
+   },
+   {
+    "id": "ial4yart",
+    "name": "Lush hair braids",
+    "desc": "Hair extensions( braids ), suitable for many hairstyles",
+    "price": 60,
+    "stock": 22,
+    "image": "images/ial4yart.jpg"
+   },
+   {
+    "id": "imz9gg73",
+    "name": "Bamsi moulding gel",
+    "desc": "Locs moulding gel",
+    "price": 150,
+    "stock": 14,
+    "image": "images/imz9gg73.jpg"
+   },
+   {
+    "id": "i19gds4h",
+    "name": "Dexe shampoo",
+    "desc": "Black hair shampoo",
+    "price": 50,
+    "stock": 12,
+    "image": "images/i19gds4h.jpg"
+   },
+   {
+    "id": "ijwhgud5",
+    "name": "Rubber bands",
+    "desc": "Tiny rubber bands for styling kids hair",
+    "price": 40,
+    "stock": 18,
+    "image": "images/ijwhgud5.jpg"
+   },
+   {
+    "id": "iunugme9",
+    "name": "Robin Acrylic yarn",
+    "desc": "Acrylic yarn",
+    "price": 130,
+    "stock": 17,
+    "image": "images/iunugme9.jpg"
+   },
+   {
+    "id": "ila60hr1",
+    "name": "Robin acrylic yarn",
+    "desc": "Acrylic yarn",
+    "price": 70,
+    "stock": 16,
+    "image": "images/ila60hr1.jpg"
+   },
+   {
+    "id": "iixs6m3d",
+    "name": "Earings",
+    "desc": "Stylish metal earing for everyday outfits",
+    "price": 50,
+    "stock": 24,
+    "image": "images/iixs6m3d.jpg"
+   },
+   {
+    "id": "i6lahekx",
+    "name": "Movit baby powder",
+    "desc": "Baby powder for sensitive skin",
+    "price": 40,
+    "stock": 17,
+    "image": "images/i6lahekx.jpg"
+   },
+   {
+    "id": "i3c3dtx5",
+    "name": "Brazilian wool hair",
+    "desc": "hair extensions for different hair styles",
+    "price": 100,
+    "stock": 20,
+    "image": "images/i3c3dtx5.jpg"
+   },
+   {
+    "id": "iwo9sl9h",
+    "name": "Hair ties",
+    "desc": "Elastic hair bands",
+    "price": 50,
+    "stock": 21,
+    "image": "images/iwo9sl9h.jpg"
+   },
+   {
+    "id": "i69vu0sn",
+    "name": "Songa braids",
+    "desc": "Hair extensions for kids",
+    "price": 180,
+    "stock": 23,
+    "image": "images/i69vu0sn.jpg"
+   },
+   {
+    "id": "i7nuxoy3",
+    "name": "Darling Bonjour curls",
+    "desc": "Curly hair extensions",
+    "price": 350,
+    "stock": 22,
+    "image": "images/i7nuxoy3.jpg"
+   },
+   {
+    "id": "c1",
+    "name": "Siri moisturizing cream",
+    "desc": "Face and body moisturizing cream",
+    "price": 100,
+    "stock": 12,
+    "image": "images/c1.jpg"
+   },
+   {
+    "id": "c2",
+    "name": "Luron pimple cream",
+    "desc": "Acne control pimple cream",
+    "price": 180,
+    "stock": 14,
+    "image": "images/c2.jpg"
+   },
+   {
+    "id": "c3",
+    "name": "Lipgloss",
+    "desc": "Flavoured colour changing lipgloss",
+    "price": 50,
+    "stock": 11,
+    "image": "images/c3.jpg"
+   },
+   {
+    "id": "c4",
+    "name": "Yenbu shower gel",
+    "desc": "moisturizing shower gel for daily use",
+    "price": 270,
+    "stock": 12,
+    "image": "images/c4.jpg"
+   }
+  ]
+ }
+}
